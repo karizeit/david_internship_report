@@ -15,8 +15,8 @@
 ## participant 14 - kit 4
 - PMScan (1386E7 / 138637)
   - temps d'utilisation : 3H 25 mins (205 minutes soit 12300 secondes) = 12300 secondes
-  - nombre de ligne attendu : 12300 / 5 = 2460
-  - nombre de ligne obtenu : 2465
+  - nombre de lignes attendu : 12300 / 5 = 2460
+  - nombre de lignes obtenu : 2465
   - précision : 100.2 %
   - le graphe ne présente pas de courbes linéaires mais le capteur a été utilisé sur une période très courte
 
